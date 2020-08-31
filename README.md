@@ -1,2 +1,2 @@
-# Triange-Assignment
+# Triangle-Assignment
 High School Python Assginment
